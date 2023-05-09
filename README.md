@@ -2,6 +2,7 @@
 This project involves telemetry i.e transmission and reception of data from various sensors such as Battery Management System, Motor Control, Mass Flow Rate Sensor,Hall Effect Sensor etc to a remote computer using HC-12 module on UART serial communication protocol.
 
 **HARDWARE AND COMPONENTS**
+
 1.) Arduino UNO and Arduino MEGA 2560
 ![image](https://github.com/ayushjain143/Data-Acquisition-System-Telemetry/assets/73123555/0f06e3af-20a4-41c7-8d73-c9c606b114d0)
 ![image](https://github.com/ayushjain143/Data-Acquisition-System-Telemetry/assets/73123555/5469b42f-dd0f-4ecf-92c6-8708bc7571b0)
